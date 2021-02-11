@@ -1,6 +1,7 @@
 # Created by https://www.gitignore.io/api/android,osx,windows,linux,intellij,java
 
-
+#ignorar la API-KEY de google
+app/src/debug/res/values/google_maps_api.xml
 
 ### Android ###
 # Built application files
